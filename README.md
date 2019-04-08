@@ -2,4 +2,10 @@
 
 > Este projeto não está em funcionamento!
 
-Assista ao vídeo de teste: http://bit.ly/reconhecimento-de-voz_tadeubarbosa
+---
+
+#### Links:
+
+- Assista ao vídeo de teste: http://bit.ly/reconhecimento-de-voz_tadeubarbosa
+
+- Texto no *medium*: http://bit.ly/alexa-portugues-blog
